@@ -1,5 +1,4 @@
 public class PersonInfo {
-
     // Variables to store personal information
     String firstName;
     String lastName;
